@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Aryan aka CosmicRaptor</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CosmicRaptor&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="CosmicRaptor" /> </p>
+
+- I'm currently learning Flutter/Dart
+- Looking forward to connecting with fellow Flutter fans!
+- I'm also a huge linux fan, I (don't) use Arch btw!
+- Find me on discord! Username `cosmic.raptor`
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CosmicRaptor&show_icons=true&locale=en&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **CosmicRaptor/CosmicRaptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
