@@ -6,7 +6,7 @@
 - I'm also a huge linux fan, I (don't) use Arch btw!
 - Find me on discord! Username `cosmic.raptor`
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CosmicRaptor&show_icons=true&locale=en&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CosmicRaptor&show_icons=true&locale=en&layout=compact&theme=blue-green&exclude_repo=cosmicraptor.github.io,old-website)](https://github.com/anuraghazra/github-readme-stats&exclude_repo=cosmicraptor.github.io,old-website)
 
 
 
